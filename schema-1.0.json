@@ -1,0 +1,31 @@
+{
+	"schema_version": "1.0",
+	"packages": [
+		{
+			"name": "package_control-tester",
+			"author": "wbond",
+			"description": "Send the currently opened file to Transmit",
+			"homepage": "https://github.com/wbond/package_control-tester",
+			"platforms": {
+				"*": [
+					{
+						"version": "1.0.0",
+						"url": "https://nodeload.github.com/wbond/package_control-tester/zipball/1.0.0"
+					}
+				],
+				"windows": [
+					{
+						"version": "1.0.1",
+						"url": "https://nodeload.github.com/wbond/package_control-tester/zipball/1.0.1"
+					}
+				],
+				"windows": [
+					{
+						"version": "1.0.1-beta",
+						"url": "https://nodeload.github.com/wbond/package_control-tester/zipball/1.0.1-beta"
+					}
+				]
+			}
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"schema_version": "1.2",
+	"packages": [
+		{
+			"name": "package_control-tester",
+			"author": "wbond",
+			"description": "Send the currently opened file to Transmit",
+			"homepage": "https://github.com/wbond/package_control-tester",
+			"last_updated": "2014-11-12 15:52:35",
+			"platforms": {
+				"*": [
+					{
+						"version": "1.0.0",
+						"url": "https://codeload.github.com/wbond/package_control-tester/zip/1.0.0"
+					}
+				],
+				"windows": [
+					{
+						"version": "1.0.1",
+						"url": "https://codeload.github.com/wbond/package_control-tester/zip/1.0.1"
+					}
+				],
+				"windows": [
+					{
+						"version": "1.0.1-beta",
+						"url": "https://codeload.github.com/wbond/package_control-tester/zip/1.0.1-beta"
+					}
+				]
+			}
+		}
+	]
+}
