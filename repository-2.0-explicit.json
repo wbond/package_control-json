@@ -6,6 +6,7 @@
 			"author": "packagecontrol",
 			"description": "A test of Package Control upgrade messages with explicit versions, but date-based releases.",
 			"homepage": "https://github.com/packagecontrol/package_control-tester",
+			"buy": "https://example.com",
 			"releases": [
 				{
 					"version": "1.0.1",

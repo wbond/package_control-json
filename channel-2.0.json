@@ -91,7 +91,7 @@
 				"homepage": "https://github.com/packagecontrol/package_control-tester",
 				"issues": null,
 				"donate": null,
-				"buy": null,
+				"buy": "https://example.com",
 				"readme": null,
 				"previous_names": [],
 				"labels": [],
