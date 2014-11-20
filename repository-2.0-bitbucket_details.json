@@ -2,6 +2,7 @@
 	"schema_version": "2.0",
 	"packages": [
 		{
+			"name": "package_control-tester-2.0-bb",
 			"details": "https://bitbucket.org/wbond/package_control-tester",
 			"releases": [
 				{
