@@ -6,7 +6,7 @@
 			"details": "https://bitbucket.org/wbond/package_control-tester",
 			"releases": [
 				{
-					"details": "https://bitbucket.org/wbond/package_control-tester/tags",
+					"details": "https://bitbucket.org/wbond/package_control-tester#tags",
 					"sublime_text": "<3000"
 				}
 			]

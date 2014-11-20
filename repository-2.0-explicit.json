@@ -3,29 +3,35 @@
 	"packages": [
 		{
 			"name": "package_control-tester-2.0",
-			"author": "wbond",
-			"description": "Send the currently opened file to Transmit",
-			"homepage": "https://github.com/wbond/package_control-tester",
+			"author": "packagecontrol",
+			"description": "A test of Package Control upgrade messages with explicit versions, but date-based releases.",
+			"homepage": "https://github.com/packagecontrol/package_control-tester",
 			"releases": [
-				{
-					"version": "1.0.0",
-					"date": "2014-11-12 15:14:13",
-					"url": "https://nodeload.github.com/wbond/package_control-tester/zipball/1.0.0",
-					"sublime_text": "<3000"
-				},
 				{
 					"version": "1.0.1",
 					"date": "2014-11-12 15:52:35",
-					"url": "https://nodeload.github.com/wbond/package_control-tester/zipball/1.0.1",
-					"sublime_text": "<3000",
+					"url": "https://codeload.github.com/packagecontrol/package_control-tester/zip/1.0.1",
+					"sublime_text": "*",
 					"platforms": ["windows"]
 				},
 				{
 					"version": "1.0.1-beta",
 					"date": "2014-11-12 15:14:23",
-					"url": "https://nodeload.github.com/wbond/package_control-tester/zipball/1.0.1-beta",
-					"sublime_text": "<3000",
+					"url": "https://codeload.github.com/packagecontrol/package_control-tester/zip/1.0.1-beta",
+					"sublime_text": "*",
 					"platforms": "windows"
+				},
+				{
+					"version": "1.0.0",
+					"date": "2014-11-12 15:14:13",
+					"url": "https://codeload.github.com/packagecontrol/package_control-tester/zip/1.0.0",
+					"sublime_text": "*"
+				},
+				{
+					"version": "0.9.0",
+					"date": "2014-11-12 02:02:22",
+					"url": "https://codeload.github.com/packagecontrol/package_control-tester/zip/0.9.0",
+					"sublime_text": "<3000"
 				}
 			]
 		}

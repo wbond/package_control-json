@@ -3,10 +3,10 @@
 	"packages": [
 		{
 			"name": "package_control-tester-2.0-gh",
-			"details": "https://github.com/wbond/package_control-tester",
+			"details": "https://github.com/packagecontrol/package_control-tester",
 			"releases": [
 				{
-					"details": "https://github.com/wbond/package_control-tester/tags",
+					"details": "https://github.com/packagecontrol/package_control-tester/tags",
 					"sublime_text": "<3000"
 				}
 			]
