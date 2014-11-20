@@ -6,7 +6,7 @@
 			"author": "packagecontrol",
 			"description": "A test of Package Control upgrade messages with explicit versions, but date-based releases.",
 			"homepage": "https://github.com/packagecontrol/package_control-tester",
-			"last_updated": "2014-11-12 15:52:35",
+			"last_modified": "2014-11-12 15:52:35",
 			"platforms": {
 				"*": [
 					{
