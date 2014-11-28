@@ -149,7 +149,7 @@
 				"releases": [
 					{
 						"version": "1.0.2",
-						"date": "2014-11-12 15:52:35",
+						"date": "2014-11-28 20:54:15",
 						"url": "https://codeload.github.com/packagecontrol/package_control-tester/zip/win-1.0.2",
 						"sublime_text": "<3000",
 						"platforms": ["windows"]
@@ -235,7 +235,7 @@
 				"releases": [
 					{
 						"version": "1.0.2",
-						"date": "2014-11-12 15:52:35",
+						"date": "2014-11-28 20:54:15",
 						"url": "https://bitbucket.org/wbond/package_control-tester/get/win-1.0.2.zip",
 						"sublime_text": "<3000",
 						"platforms": ["windows"]
