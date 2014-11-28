@@ -12,17 +12,6 @@
 			]
 		},
 		{
-			"name": "package_control-tester-3.0.0-gh-tags_prefix",
-			"details": "https://github.com/packagecontrol/package_control-tester",
-			"releases": [
-				{
-					"tags": "win-",
-					"sublime_text": "<3000",
-					"platforms": "windows"
-				}
-			]
-		},
-		{
 			"name": "package_control-tester-3.0.0-gh-tags_base",
 			"author": "packagecontrol",
 			"description": "A test of Package Control upgrade messages with explicit versions, but date-based releases.",
@@ -32,6 +21,17 @@
 					"base": "https://github.com/packagecontrol/package_control-tester",
 					"tags": true,
 					"sublime_text": "*"
+				}
+			]
+		},
+		{
+			"name": "package_control-tester-3.0.0-gh-tags_prefix",
+			"details": "https://github.com/packagecontrol/package_control-tester",
+			"releases": [
+				{
+					"tags": "win-",
+					"sublime_text": "<3000",
+					"platforms": "windows"
 				}
 			]
 		},
