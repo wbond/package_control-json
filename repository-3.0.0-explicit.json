@@ -13,7 +13,8 @@
 					"date": "2014-11-12 15:52:35",
 					"url": "https://codeload.github.com/packagecontrol/package_control-tester/zip/1.0.1",
 					"sublime_text": "*",
-					"platforms": ["windows"]
+					"platforms": ["windows"],
+					"dependencies": ["bz2"]
 				},
 				{
 					"version": "1.0.1-beta",
