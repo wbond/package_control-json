@@ -41,6 +41,7 @@
 	"dependencies": [
 		{
 			"name": "bz2",
+			"load_order": "02",
 			"description": "Python bz2 module",
 			"author": "wbond",
 			"issues": "https://github.com/wbond/package_control/issues",
@@ -55,6 +56,7 @@
 		},
 		{
 			"name": "ssl-linux",
+			"load_order": "01",
 			"description": "Python _ssl module for Linux",
 			"author": "wbond",
 			"issues": "https://github.com/wbond/package_control/issues",
@@ -70,6 +72,7 @@
 		},
 		{
 			"name": "ssl-windows",
+			"load_order": "01",
 			"description": "Python _ssl module for Sublime Text 2 on Windows",
 			"author": "wbond",
 			"issues": "https://github.com/wbond/package_control/issues",
