@@ -49,8 +49,7 @@
 				{
 					"version": "1.0.0",
 					"url": "https://packagecontrol.io/bz2.sublime-package",
-					"sublime_text": "*",
-					"platforms": ["*"]
+					"sublime_text": "*"
 				}
 			]
 		},
