@@ -11,7 +11,7 @@
 				"name": "package_control-tester-3.0.0",
 				"author": ["packagecontrol", "wbond"],
 				"description": "A test of Package Control upgrade messages with explicit versions, but date-based releases.",
-				"homepage": "https://github.com/packagecontrol/package_control-tester",
+				"homepage": "https://github.com/packagecontrol-test/package_control-tester",
 				"issues": null,
 				"donate": null,
 				"buy": "https://example.com",
@@ -22,7 +22,7 @@
 					{
 						"version": "1.0.1",
 						"date": "2014-11-12 15:52:35",
-						"url": "https://codeload.github.com/packagecontrol/package_control-tester/zip/1.0.1",
+						"url": "https://codeload.github.com/packagecontrol-test/package_control-tester/zip/1.0.1",
 						"sublime_text": "*",
 						"platforms": ["windows"],
 						"dependencies": ["bz2"]
@@ -30,21 +30,21 @@
 					{
 						"version": "1.0.1-beta",
 						"date": "2014-11-12 15:14:23",
-						"url": "https://codeload.github.com/packagecontrol/package_control-tester/zip/1.0.1-beta",
+						"url": "https://codeload.github.com/packagecontrol-test/package_control-tester/zip/1.0.1-beta",
 						"sublime_text": "*",
 						"platforms": ["windows"]
 					},
 					{
 						"version": "1.0.0",
 						"date": "2014-11-12 15:14:13",
-						"url": "https://codeload.github.com/packagecontrol/package_control-tester/zip/1.0.0",
+						"url": "https://codeload.github.com/packagecontrol-test/package_control-tester/zip/1.0.0",
 						"sublime_text": "*",
 						"platforms": ["*"]
 					},
 					{
 						"version": "0.9.0",
 						"date": "2014-11-12 02:02:22",
-						"url": "https://codeload.github.com/packagecontrol/package_control-tester/zip/0.9.0",
+						"url": "https://codeload.github.com/packagecontrol-test/package_control-tester/zip/0.9.0",
 						"sublime_text": "<3000",
 						"platforms": ["*"]
 					}
@@ -56,39 +56,39 @@
 				"name": "package_control-tester-3.0.0-gh-tags",
 				"author": "packagecontrol",
 				"description": "A test of Package Control upgrade messages with explicit versions, but date-based releases.",
-				"homepage": "https://github.com/packagecontrol/package_control-tester",
-				"issues": "https://github.com/packagecontrol/package_control-tester/issues",
-				"donate": "https://gratipay.com/on/github/packagecontrol/",
+				"homepage": "https://github.com/packagecontrol-test/package_control-tester",
+				"issues": "https://github.com/packagecontrol-test/package_control-tester/issues",
+				"donate": "https://gratipay.com/on/github/packagecontrol-test/",
 				"buy": null,
-				"readme": "https://raw.githubusercontent.com/packagecontrol/package_control-tester/master/readme.md",
+				"readme": "https://raw.githubusercontent.com/packagecontrol-test/package_control-tester/master/readme.md",
 				"previous_names": [],
 				"labels": [],
 				"releases": [
 					{
 						"version": "1.0.1",
 						"date": "2014-11-12 15:52:35",
-						"url": "https://codeload.github.com/packagecontrol/package_control-tester/zip/1.0.1",
+						"url": "https://codeload.github.com/packagecontrol-test/package_control-tester/zip/1.0.1",
 						"sublime_text": "<3000",
 						"platforms": ["*"]
 					},
 					{
 						"version": "1.0.1-beta",
 						"date": "2014-11-12 15:14:23",
-						"url": "https://codeload.github.com/packagecontrol/package_control-tester/zip/1.0.1-beta",
+						"url": "https://codeload.github.com/packagecontrol-test/package_control-tester/zip/1.0.1-beta",
 						"sublime_text": "<3000",
 						"platforms": ["*"]
 					},
 					{
 						"version": "1.0.0",
 						"date": "2014-11-12 15:14:13",
-						"url": "https://codeload.github.com/packagecontrol/package_control-tester/zip/1.0.0",
+						"url": "https://codeload.github.com/packagecontrol-test/package_control-tester/zip/1.0.0",
 						"sublime_text": "<3000",
 						"platforms": ["*"]
 					},
 					{
 						"version": "0.9.0",
 						"date": "2014-11-12 02:02:22",
-						"url": "https://codeload.github.com/packagecontrol/package_control-tester/zip/0.9.0",
+						"url": "https://codeload.github.com/packagecontrol-test/package_control-tester/zip/0.9.0",
 						"sublime_text": "<3000",
 						"platforms": ["*"]
 					}
@@ -98,39 +98,39 @@
 				"name": "package_control-tester-3.0.0-gh-tags_base",
 				"author": "packagecontrol",
 				"description": "A test of Package Control upgrade messages with explicit versions, but date-based releases.",
-				"homepage": "https://github.com/packagecontrol/package_control-tester",
-				"issues": "https://github.com/packagecontrol/package_control-tester/issues",
-				"donate": "https://gratipay.com/on/github/packagecontrol/",
+				"homepage": "https://github.com/packagecontrol-test/package_control-tester",
+				"issues": "https://github.com/packagecontrol-test/package_control-tester/issues",
+				"donate": "https://gratipay.com/on/github/packagecontrol-test/",
 				"buy": null,
-				"readme": "https://raw.githubusercontent.com/packagecontrol/package_control-tester/master/readme.md",
+				"readme": "https://raw.githubusercontent.com/packagecontrol-test/package_control-tester/master/readme.md",
 				"previous_names": [],
 				"labels": [],
 				"releases": [
 					{
 						"version": "1.0.1",
 						"date": "2014-11-12 15:52:35",
-						"url": "https://codeload.github.com/packagecontrol/package_control-tester/zip/1.0.1",
+						"url": "https://codeload.github.com/packagecontrol-test/package_control-tester/zip/1.0.1",
 						"sublime_text": "<3000",
 						"platforms": ["*"]
 					},
 					{
 						"version": "1.0.1-beta",
 						"date": "2014-11-12 15:14:23",
-						"url": "https://codeload.github.com/packagecontrol/package_control-tester/zip/1.0.1-beta",
+						"url": "https://codeload.github.com/packagecontrol-test/package_control-tester/zip/1.0.1-beta",
 						"sublime_text": "<3000",
 						"platforms": ["*"]
 					},
 					{
 						"version": "1.0.0",
 						"date": "2014-11-12 15:14:13",
-						"url": "https://codeload.github.com/packagecontrol/package_control-tester/zip/1.0.0",
+						"url": "https://codeload.github.com/packagecontrol-test/package_control-tester/zip/1.0.0",
 						"sublime_text": "<3000",
 						"platforms": ["*"]
 					},
 					{
 						"version": "0.9.0",
 						"date": "2014-11-12 02:02:22",
-						"url": "https://codeload.github.com/packagecontrol/package_control-tester/zip/0.9.0",
+						"url": "https://codeload.github.com/packagecontrol-test/package_control-tester/zip/0.9.0",
 						"sublime_text": "<3000",
 						"platforms": ["*"]
 					}
@@ -140,18 +140,18 @@
 				"name": "package_control-tester-3.0.0-gh-tags_prefix",
 				"author": "packagecontrol",
 				"description": "A test of Package Control upgrade messages with explicit versions, but date-based releases.",
-				"homepage": "https://github.com/packagecontrol/package_control-tester",
-				"issues": "https://github.com/packagecontrol/package_control-tester/issues",
-				"donate": "https://gratipay.com/on/github/packagecontrol/",
+				"homepage": "https://github.com/packagecontrol-test/package_control-tester",
+				"issues": "https://github.com/packagecontrol-test/package_control-tester/issues",
+				"donate": "https://gratipay.com/on/github/packagecontrol-test/",
 				"buy": null,
-				"readme": "https://raw.githubusercontent.com/packagecontrol/package_control-tester/master/readme.md",
+				"readme": "https://raw.githubusercontent.com/packagecontrol-test/package_control-tester/master/readme.md",
 				"previous_names": [],
 				"labels": [],
 				"releases": [
 					{
 						"version": "1.0.2",
 						"date": "2014-11-28 20:54:15",
-						"url": "https://codeload.github.com/packagecontrol/package_control-tester/zip/win-1.0.2",
+						"url": "https://codeload.github.com/packagecontrol-test/package_control-tester/zip/win-1.0.2",
 						"sublime_text": "<3000",
 						"platforms": ["windows"]
 					}
@@ -161,18 +161,18 @@
 				"name": "package_control-tester-3.0.0-gh-branch",
 				"author": "packagecontrol",
 				"description": "A test of Package Control upgrade messages with explicit versions, but date-based releases.",
-				"homepage": "https://github.com/packagecontrol/package_control-tester",
-				"issues": "https://github.com/packagecontrol/package_control-tester/issues",
-				"donate": "https://gratipay.com/on/github/packagecontrol/",
+				"homepage": "https://github.com/packagecontrol-test/package_control-tester",
+				"issues": "https://github.com/packagecontrol-test/package_control-tester/issues",
+				"donate": "https://gratipay.com/on/github/packagecontrol-test/",
 				"buy": null,
-				"readme": "https://raw.githubusercontent.com/packagecontrol/package_control-tester/master/readme.md",
+				"readme": "https://raw.githubusercontent.com/packagecontrol-test/package_control-tester/master/readme.md",
 				"previous_names": [],
 				"labels": [],
 				"releases": [
 					{
 						"version": "2014.11.28.20.54.15",
 						"date": "2014-11-28 20:54:15",
-						"url": "https://codeload.github.com/packagecontrol/package_control-tester/zip/master",
+						"url": "https://codeload.github.com/packagecontrol-test/package_control-tester/zip/master",
 						"sublime_text": "*",
 						"platforms": ["*"]
 					}

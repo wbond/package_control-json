@@ -3,7 +3,7 @@
 	"packages": [
 		{
 			"name": "package_control-tester-3.0.0-gh-tags",
-			"details": "https://github.com/packagecontrol/package_control-tester",
+			"details": "https://github.com/packagecontrol-test/package_control-tester",
 			"releases": [
 				{
 					"tags": true,
@@ -15,10 +15,10 @@
 			"name": "package_control-tester-3.0.0-gh-tags_base",
 			"author": "packagecontrol",
 			"description": "A test of Package Control upgrade messages with explicit versions, but date-based releases.",
-			"homepage": "https://github.com/packagecontrol/package_control-tester",
+			"homepage": "https://github.com/packagecontrol-test/package_control-tester",
 			"releases": [
 				{
-					"base": "https://github.com/packagecontrol/package_control-tester",
+					"base": "https://github.com/packagecontrol-test/package_control-tester",
 					"tags": true,
 					"sublime_text": "*"
 				}
@@ -26,7 +26,7 @@
 		},
 		{
 			"name": "package_control-tester-3.0.0-gh-tags_prefix",
-			"details": "https://github.com/packagecontrol/package_control-tester",
+			"details": "https://github.com/packagecontrol-test/package_control-tester",
 			"releases": [
 				{
 					"tags": "win-",
@@ -37,7 +37,7 @@
 		},
 		{
 			"name": "package_control-tester-3.0.0-gh-branch",
-			"details": "https://github.com/packagecontrol/package_control-tester",
+			"details": "https://github.com/packagecontrol-test/package_control-tester",
 			"releases": [
 				{
 					"branch": "master",
