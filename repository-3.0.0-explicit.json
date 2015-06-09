@@ -6,6 +6,7 @@
 			"author": ["packagecontrol", "wbond"],
 			"description": "A test of Package Control upgrade messages with explicit versions, but date-based releases.",
 			"homepage": "https://github.com/packagecontrol-test/package_control-tester",
+			"donate": "https://gratipay.com/wbond/",
 			"buy": "https://example.com",
 			"releases": [
 				{
