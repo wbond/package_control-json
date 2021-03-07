@@ -3,6 +3,7 @@
 	"repositories": [
 		"https://raw.githubusercontent.com/wbond/package_control-json/master/repository-3.0.0-explicit.json",
 		"https://raw.githubusercontent.com/wbond/package_control-json/master/repository-3.0.0-github_releases.json",
+		"https://raw.githubusercontent.com/wbond/package_control-json/master/repository-3.0.0-gitlab_releases.json",
 		"https://raw.githubusercontent.com/wbond/package_control-json/master/repository-3.0.0-bitbucket_releases.json"
 	],
 	"packages_cache": {
@@ -173,6 +174,92 @@
 						"version": "2014.11.28.20.54.15",
 						"date": "2014-11-28 20:54:15",
 						"url": "https://codeload.github.com/packagecontrol-test/package_control-tester/zip/master",
+						"sublime_text": "*",
+						"platforms": ["*"]
+					}
+				]
+			}
+		],
+		"https://raw.githubusercontent.com/wbond/package_control-json/master/repository-3.0.0-gitlab_releases.json": [
+			{
+				"name": "package_control-tester-3.0.0-gl-tags",
+				"author": "packagecontrol",
+				"description": "A test of Package Control upgrade messages with explicit versions, but date-based releases.",
+				"homepage": "https://gitlab.com/packagecontrol-test/package_control-tester",
+				"issues": null,
+				"donate": null,
+				"buy": null,
+				"readme": "https://gitlab.com/packagecontrol-test/package_control-tester/-/master/readme.md",
+				"previous_names": [],
+				"labels": [],
+				"releases": [
+					{
+						"version": "1.0.1",
+						"date": "2020-07-15 10:50:38",
+						"url": "https://gitlab.com/packagecontrol-test/package_control-tester/-/archive/1.0.1/package_control-tester-1.0.1.zip",
+						"sublime_text": "*",
+						"platforms": ["*"]
+					}
+				]
+			},
+			{
+				"name": "package_control-tester-3.0.0-gl-tags_base",
+				"author": "packagecontrol",
+				"description": "A test of Package Control upgrade messages with explicit versions, but date-based releases.",
+				"homepage": "https://gitlab.com/packagecontrol-test/package_control-tester",
+				"issues": null,
+				"donate": null,
+				"buy": null,
+				"readme": "https://gitlab.com/packagecontrol-test/package_control-tester/-/master/readme.md",
+				"previous_names": [],
+				"labels": [],
+				"releases": [
+					{
+						"version": "1.0.1",
+						"date": "2020-07-15 10:50:38",
+						"url": "https://gitlab.com/packagecontrol-test/package_control-tester/-/archive/1.0.1/package_control-tester-1.0.1.zip",
+						"sublime_text": "*",
+						"platforms": ["*"]
+					}
+				]
+			},
+			{
+				"name": "package_control-tester-3.0.0-gl-tags_prefix",
+				"author": "packagecontrol",
+				"description": "A test of Package Control upgrade messages with explicit versions, but date-based releases.",
+				"homepage": "https://gitlab.com/packagecontrol-test/package_control-tester",
+				"issues": null,
+				"donate": null,
+				"buy": null,
+				"readme": "https://gitlab.com/packagecontrol-test/package_control-tester/-/master/readme.md",
+				"previous_names": [],
+				"labels": [],
+				"releases": [
+					{
+						"version": "1.0.1",
+						"date": "2020-07-15 10:50:38",
+						"url": "https://gitlab.com/packagecontrol-test/package_control-tester/-/archive/win-1.0.1/package_control-tester-win-1.0.1.zip",
+						"sublime_text": "<3000",
+						"platforms": ["windows"]
+					}
+				]
+			},
+			{
+				"name": "package_control-tester-3.0.0-gl-branch",
+				"author": "packagecontrol",
+				"description": "A test of Package Control upgrade messages with explicit versions, but date-based releases.",
+				"homepage": "https://gitlab.com/packagecontrol-test/package_control-tester",
+				"issues": null,
+				"donate": null,
+				"buy": null,
+				"readme": "https://gitlab.com/packagecontrol-test/package_control-tester/-/master/readme.md",
+				"previous_names": [],
+				"labels": [],
+				"releases": [
+					{
+						"version": "2020.07.15.10.50.38",
+						"date": "2020-07-15 10:50:38",
+						"url": "https://gitlab.com/packagecontrol-test/package_control-tester/-/archive/master/package_control-tester-master.zip",
 						"sublime_text": "*",
 						"platforms": ["*"]
 					}
