@@ -1,8 +1,8 @@
 {
-	"schema_version": "3.1.0",
+	"schema_version": "4.0.0",
 	"packages": [
 		{
-			"name": "package_control-tester-3.1.0",
+			"name": "package_control-tester-4.0.0",
 			"author": ["packagecontrol", "wbond"],
 			"description": "A test of Package Control upgrade messages with explicit versions, but date-based releases.",
 			"homepage": "https://github.com/packagecontrol-test/package_control-tester",
@@ -15,7 +15,7 @@
 					"url": "https://codeload.github.com/packagecontrol-test/package_control-tester/zip/1.0.1",
 					"sublime_text": "*",
 					"platforms": ["windows"],
-					"dependencies": ["bz2"]
+					"libraries": ["bz2"]
 				},
 				{
 					"version": "1.0.1-beta",
@@ -39,10 +39,9 @@
 			]
 		}
 	],
-	"dependencies": [
+	"libraries": [
 		{
 			"name": "bz2",
-			"load_order": "02",
 			"description": "Python bz2 module",
 			"author": "wbond",
 			"issues": "https://github.com/wbond/package_control/issues",
@@ -57,7 +56,6 @@
 		},
 		{
 			"name": "ssl-linux",
-			"load_order": "01",
 			"description": "Python _ssl module for Linux",
 			"author": "wbond",
 			"issues": "https://github.com/wbond/package_control/issues",
